@@ -1,0 +1,19 @@
+.이리안 {
+    color: aqua;
+}
+#글자 {
+    font-size: 100px; /* id를 가져올 때는 
+    #을 통한다*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    background-color: black; 
+}
+body div h1, h2, h3, h4, h5 {
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
